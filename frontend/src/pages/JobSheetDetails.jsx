@@ -181,7 +181,6 @@ function JobSheetDetails() {
 						<Button
 							variant='success'
 							className='fw-semibold mb-3'
-							onClick={generatePDF}
 						>
 							Save PDF
 						</Button>
