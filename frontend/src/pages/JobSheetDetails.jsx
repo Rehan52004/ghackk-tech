@@ -178,11 +178,7 @@ function JobSheetDetails() {
 								</Button>
 							</Link>
 						</div>
-						<Button
-							variant='success'
-							className='fw-semibold mb-3'
-							onClick={generatePDF}
-						>
+						<Button variant='success' className='fw-semibold mb-3'>
 							Save PDF
 						</Button>
 					</Col>
